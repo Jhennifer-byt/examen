@@ -6,7 +6,7 @@ import os
 app = Flask(__name__, template_folder='templates')
 
 # Configuración de la base de datos
-DB_HOST = 'dpg-crk8mc9u0jms73fjtl60-a'
+DB_HOST = 'dpg-crk8mc9u0jms73fjtl60-a.oregon-postgres.render.com'
 DB_NAME = 'examen_rlx0'
 DB_USER = 'examen_rlx0_user'
 DB_PASSWORD = 'MfoJ0gZif0ovWXMXxFEezYQtYeOIGnQV'
